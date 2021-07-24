@@ -1,0 +1,31 @@
+/* BREAK POINT */
+
+/* PC */
+@media (min-width: 1024px) {
+    .contact-form {
+        margin: 48px 30px;
+    
+    }
+}
+
+
+/* Tablet */
+@media (min-width: 740px) and (max-width: 1023px) {
+    .btn-submit {
+        width: 100%;
+    }
+
+}
+
+
+
+/* Mobile */
+@media (max-width: 739px) {
+    .navbar li {
+        display: block;
+    }
+    .btn-submit {
+        width: 100%;
+    }
+
+}
